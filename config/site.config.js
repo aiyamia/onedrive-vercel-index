@@ -42,7 +42,7 @@ module.exports = {
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
-  protectedRoutes: ['/mosh的python课程（付费资源）'],
+  protectedRoutes: ['/mosh的python课程（付费资源）','/学术讲座','/公号会员学术大礼包'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
   email: '',
